@@ -13,3 +13,4 @@ This blog is meant to help others trying to find a great solution - perhaps comi
 
 I have a SONOS now, after evaluating a lot of other hardware. It's great in many ways but not perfect, and still requires dealing with 3rd party software to manage my large music library.
 
+The [state of affairs](./state-of-affairs) page is meant to keep a catalog of interesting projects and their current state. I will add new blog posts with details on anything that I learn about as it comes up, and try to keep the summary up-to-date as well.
